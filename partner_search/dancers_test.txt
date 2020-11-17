@@ -1,0 +1,11 @@
+Derp|derp@gmail.com|lead|0
+Herp|herp@gmail.com|lead|1
+Gord|gordlarson@gmail.com|lead|3
+Jake|jake@gmail.com|lead|4
+Jorden|jord@gmail.com|lead|5
+Derpina|derpina@gmail.com|follow|a
+Herpina|herpina@gmail.com|follow|b
+Jill|jill@gmail.com|follow|c
+Lauren|laur@gmail.com|follow|d
+Sarah|sara@gmail.com|follow|e
+Woman|wo@gmail.com|follow|f
